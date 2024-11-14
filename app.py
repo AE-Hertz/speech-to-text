@@ -3,11 +3,10 @@ import whisper
 import tempfile
 import os
 
-import os
 os.system("ffmpeg -version")
 
 # Load the Whisper model
-model = whisper.load_model("tiny")
+model = whisper.load_model("medium")
 
 # Title of the Streamlit App
 st.title("Advanced Speech Recognition")
