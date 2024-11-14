@@ -4,7 +4,7 @@ import tempfile
 import os
 
 # Load the Whisper model
-model = whisper.load_model("large")
+model = whisper.load_model("tiny")
 
 # Title of the Streamlit App
 st.title("Whisper Voice-to-Text Transcription")
