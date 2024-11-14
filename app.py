@@ -3,6 +3,9 @@ import whisper
 import tempfile
 import os
 
+import os
+os.system("ffmpeg -version")
+
 # Load the Whisper model
 model = whisper.load_model("tiny")
 
