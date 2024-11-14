@@ -6,7 +6,7 @@ import os
 os.system("ffmpeg -version")
 
 # Load the Whisper model
-model = whisper.load_model("small")
+model = whisper.load_model("base")
 
 # Title of the Streamlit App
 st.set_page_config(page_title="ASR")
