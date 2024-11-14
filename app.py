@@ -9,6 +9,7 @@ os.system("ffmpeg -version")
 model = whisper.load_model("small")
 
 # Title of the Streamlit App
+st.set_page_config(page_title="ASR")
 st.title("Advanced Speech Recognition")
 st.subheader("Voice to text transcription")
 
