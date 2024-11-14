@@ -6,7 +6,7 @@ import os
 os.system("ffmpeg -version")
 
 # Load the Whisper model
-model = whisper.load_model("medium")
+model = whisper.load_model("small")
 
 # Title of the Streamlit App
 st.title("Advanced Speech Recognition")
