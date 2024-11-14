@@ -10,7 +10,8 @@ os.system("ffmpeg -version")
 model = whisper.load_model("tiny")
 
 # Title of the Streamlit App
-st.title("Whisper Voice-to-Text Transcription")
+st.title("Advanced Speech Recognition")
+st.subheader("Voice to text transcription")
 
 # Upload audio file
 uploaded_file = st.file_uploader("Upload an audio file (MP3, WAV, M4A, etc.)", type=["mp3", "wav", "m4a"])
