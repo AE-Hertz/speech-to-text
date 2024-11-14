@@ -11,7 +11,7 @@ model = whisper.load_model("tiny")
 # Title of the Streamlit App
 st.set_page_config(page_title="ASR", layout="wide")
 st.markdown("""
-    <h1 style="text-align: start; display: inline-block; border-bottom: 1px solid #6c757d; padding-bottom: 3px; width: 100%; max-width: 10800px;">
+    <h1 style="text-align: start; display: inline-block; border-bottom: 1px solid #ef233c; padding-bottom: 3px; width: 100%; max-width: 10800px;">
         Advanced Speech Recognition
     </h1>
 """, unsafe_allow_html=True)
