@@ -4,7 +4,8 @@ Here's a polished and interactive **README** file for the GitHub repository of y
 
 # Advanced Speech Recognition System using Whisper AI  
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Advanced+Speech+Recognition+with+Whisper+AI)
+![Project Banner](https://github.com/user-attachments/assets/f1395105-bff6-4263-a8b7-40b3056b37c8)
+
 
 ## 🚀 Abstract  
 This project showcases an **Advanced Speech Recognition (ASR) System** that transcribes audio to text in real time using OpenAI's **Whisper AI** model. With support for multilingual transcription, noise robustness, and a user-friendly web interface, this tool offers efficient voice-to-text applications for transcription, dictation, and voice-based user interfaces.
@@ -118,7 +119,10 @@ This project is licensed under the [MIT License](LICENSE).
 - **OpenAI** for the Whisper model.  
 - **Streamlit** for the web development framework.  
 
----  
+---
+
+![Banner(2)](https://github.com/user-attachments/assets/dd2b557c-0683-41a6-8a87-254d524df093)
+
 
 Happy coding! 😊  
 
