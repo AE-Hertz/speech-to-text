@@ -1,6 +1,3 @@
-Here's a polished and interactive **README** file for the GitHub repository of your project:
-
----
 
 # Advanced Speech Recognition System using Whisper AI  
 
