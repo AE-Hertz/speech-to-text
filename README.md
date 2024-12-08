@@ -1,7 +1,7 @@
 
 # Advanced Speech Recognition System using Whisper AI  
 
-![Project Banner](https://github.com/user-attachments/assets/f1395105-bff6-4263-a8b7-40b3056b37c8)
+![Project Banner](https://github.com/user-attachments/assets/5c88a8ba-1910-42f0-b3fb-d639d1da48f2)
 
 
 ## 🚀 Abstract  
