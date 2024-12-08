@@ -7,12 +7,12 @@
 ## 🚀 Abstract  
 This project showcases an **Advanced Speech Recognition (ASR) System** that transcribes audio to text in real time using OpenAI's **Whisper AI** model. With support for multilingual transcription, noise robustness, and a user-friendly web interface, this tool offers efficient voice-to-text applications for transcription, dictation, and voice-based user interfaces.
 
----
+
 
 ## 🔍 Motivation  
 Voice-driven technologies are revolutionizing industries like **healthcare**, **customer service**, and **accessibility**. Existing systems often face challenges in noisy environments, handling accents, or processing multiple languages. This project addresses these gaps by leveraging the Whisper model's versatility and accuracy to build a **scalable, real-time ASR system**.
 
----
+
 
 ## 🎯 Problem Definition  
 Traditional speech recognition systems are hindered by:  
@@ -23,7 +23,6 @@ Traditional speech recognition systems are hindered by:
 
 This project tackles these issues, aiming for **real-time**, **accurate**, and **multilingual transcription**, all while maintaining robust privacy measures.
 
----
 
 ## 🌟 Features  
 ### 📝 **Key Capabilities**:  
@@ -36,7 +35,6 @@ This project tackles these issues, aiming for **real-time**, **accurate**, and *
 - Enhanced real-time conversion for time-sensitive applications.  
 - Support for additional use cases like subtitles and live translations.
 
----
 
 ## 🛠️ System Architecture  
 
@@ -61,7 +59,7 @@ This project tackles these issues, aiming for **real-time**, **accurate**, and *
 ![Architecture Diagram](https://github.com/user-attachments/assets/32a43cd9-e30e-4305-8e82-11a6669be80c)
 
 
----
+
 
 ## 💻 Technology Stack  
 ### **Software**  
@@ -77,7 +75,7 @@ This project tackles these issues, aiming for **real-time**, **accurate**, and *
 - High-speed internet for real-time services.  
 - Scalable cloud-based infrastructure.  
 
----
+
 
 ## 🚀 Getting Started  
 
@@ -97,7 +95,6 @@ pip install -r requirements.txt
 streamlit run app.py  
 ```  
 
----
 
 ## 🤝 Contributions  
 We welcome contributions to improve this project! Please:  
@@ -105,20 +102,17 @@ We welcome contributions to improve this project! Please:
 2. Create a feature branch.  
 3. Submit a pull request.  
 
----
 
 ## 📄 License  
 This project is licensed under the [MIT License](LICENSE).  
 
----
 
 ## 🛡️ Acknowledgments  
 - **OpenAI** for the Whisper model.  
 - **Streamlit** for the web development framework.  
 
----
 
-![Banner(2)](https://github.com/user-attachments/assets/dd2b557c-0683-41a6-8a87-254d524df093)
+![Banner(3)](https://github.com/user-attachments/assets/8e584b6e-0897-4122-ae94-760e10e68b30)
 
 
 Happy coding! 😊  
